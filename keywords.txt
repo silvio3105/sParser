@@ -1,0 +1,18 @@
+###########################################
+# Syntax Coloring Map For Command-Handler
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+sParser		KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+find			KEYWORD2
+count			KEYWORD2
+getNext		KEYWORD2
+getLast		KEYWORD2

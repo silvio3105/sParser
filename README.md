@@ -1,9 +1,9 @@
-# COMMAND HANDLER FOR ARDUINO
+# sParser
 
 ## ABOUT
 
 This library contains functions for parsing C string. The library doesn't use dynamic memory allocation. 
-Supported format is: `cmd1,param1,...,paramN;...;cmdN,...,paramN;` where `;` is delimiter 1, and `,` is delimiter 2.
+Supported format is(in case for parsing commands): `cmd1,param1,...,paramN;...;cmdN,...,paramN;` where `;` is delimiter 1, and `,` is delimiter 2.
 See example sketches for better understanding of the library. Library is not framework depended.
 
 <br/><br/>
